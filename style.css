@@ -33,7 +33,7 @@ font-size 150%;
 
 
 .nav-bar {
-list-style-type: disc;
+list-style-type: none;
 margin: 0;
 padding: 0;
 overflow: hidden;
